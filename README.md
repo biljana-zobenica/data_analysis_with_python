@@ -1,7 +1,5 @@
 # data_analysis_with_python
 
-# callback-web-form with [django](https://docs.djangoproject.com/en/3.2/)
-
 These are all exercises based on the materials of tutorial [Data Analysis with Python: Zero to Pandas](https://jovian.ai/learn/data-analysis-with-python-zero-to-pandas)
 
 - [x] Intro to Programming with Python
