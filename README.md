@@ -4,7 +4,7 @@ These are all exercises based on the materials of tutorial [Data Analysis with P
 
 - [x] Intro to Programming with Python
 
-> A quick tour of variables and data types
+> * A quick tour of variables and data types
 
 - [x] Next Steps with Python
 
